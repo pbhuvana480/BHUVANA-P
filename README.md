@@ -3,6 +3,9 @@
 # 👋 Hi, I'm Bhuvana
 
 ### 🎓 First-Year B.Tech IT Student | 💻 Exploring Technology | 🌱 Learning & Building
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=First-Year+IT+Student;Learning+Programming;Exploring+AI+%26+IoT;Building+My+Skills;Learning+%7C+Exploring+%7C+Growing" alt="Typing Animation"/>
+
+
 
 </div>
 
